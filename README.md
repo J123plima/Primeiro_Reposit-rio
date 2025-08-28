@@ -4,23 +4,15 @@ Olá! 👋 Sou um estudante apaixonado por tecnologia e estou dando meus primeir
 
 ## 🧠 Sobre Mim
 
-- 🎓 Estudante em busca de conhecimento na área de desenvolvimento de software
 - 🐍 Aprendendo Python como minha primeira linguagem de programação
 - 💡 Curioso por automações, análise de dados e desenvolvimento web
 - 📚 Sempre aberto a feedbacks e sugestões para melhorar meus projetos
 
-## 📂 O Que Você Vai Encontrar Aqui
-
-- Scripts simples em Python para praticar lógica de programação
-- Projetos com foco em automação, como manipuladores de arquivos e web scraping
-- Pequenos desafios e exercícios resolvidos
-- Comentários explicativos para facilitar o entendimento do código
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3.x
+- Python 
 - VS Code / Jupyter Notebook
-- Bibliotecas: `requests`, `pandas`, `matplotlib`, entre outras
 
 ## 📈 Objetivos
 
@@ -29,23 +21,13 @@ Olá! 👋 Sou um estudante apaixonado por tecnologia e estou dando meus primeir
 - Aprender boas práticas de programação e versionamento com Git
 - Evoluir para áreas como análise de dados, desenvolvimento web e automação
 
-## 🤝 Contribuições
-
-Se você é um desenvolvedor mais experiente ou está aprendendo como eu, sinta-se à vontade para abrir uma issue, sugerir melhorias ou apenas trocar uma ideia. Toda ajuda é bem-vinda!
-
 ## 📬 Contato
 
-Você pode me encontrar por aqui ou me mandar uma mensagem no [LinkedIn](https://www.linkedin.com) (adicione seu link aqui).
+Você pode me encontrar por aqui ou me mandar uma mensagem no WhatsApp (13) 99709-2507
 
 ---
 
 > “A jornada de mil linhas de código começa com o primeiro `print()`.” 😄
-
-
-![Demonstração do Projeto](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
-
-
 
 
 

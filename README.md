@@ -19,7 +19,6 @@ Olá! 👋 Sou um estudante apaixonado por tecnologia e estou dando meus primeir
 - Dominar os fundamentos da linguagem Python
 - Criar projetos práticos que resolvam problemas reais
 - Aprender boas práticas de programação e versionamento com Git
-- Evoluir para áreas como análise de dados, desenvolvimento web e automação
 
 ## 📬 Contato
 
